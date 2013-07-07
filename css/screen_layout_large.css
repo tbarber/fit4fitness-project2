@@ -17,6 +17,11 @@ header a. logo {
 
 /* Layout Large Screens (default for older browsers) */
 
+header{
+	height: 275px;
+	background: url(../images/banner_1.jpg) no-repeat right 0px;
+	
+	}
 
 
 
