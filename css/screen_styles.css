@@ -38,6 +38,9 @@ body{
 		}
 		
 		a.cta:hover { background-position: right -50px ;}
+		
+		.promo h3 { font-size: 1.1em; margin: 0; }
+		.promo p { line-height: 1.2em; font-size: .9em; margin-bottom: .5em; }
 	
 	
 
