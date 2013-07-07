@@ -41,6 +41,12 @@ body{
 		
 		.promo h3 { font-size: 1.1em; margin: 0; }
 		.promo p { line-height: 1.2em; font-size: .9em; margin-bottom: .5em; }
+		
+		
+		.promo {background-repeat: no-repeat; }
+		.promo.one { background-image: url(../images/promotion_1.jpg) ; }
+		.promo.two { background-image: url(../images/promotion_2.jpg) ; }
+	.promo.three { background-image: url(../images/promotion_3.jpg) ; }
 	
 	
 
