@@ -32,6 +32,21 @@ header{
 		}
 		
 		article { padding: 60px 20px 10px 20px; }
+		
+		.promo_container { padding: 0px 0px 15px 20px;
+		}
+		.promo_container .promo {
+			width: 33%;
+			float:left;
+			background-position: 0px 3px;
+			}
+			
+			.promo_container .promo .content { padding: 0px 30px 70px;} 
+				
+				
+				
+			
+			
 
 
 
