@@ -22,6 +22,14 @@ header{
 	background: url(../images/banner_1.jpg) no-repeat right 0px;
 	
 	}
+	
+	header a.logo {
+		width:150px;
+		height:85px;
+		top: 28px;
+		right: 30px;
+		
+		}
 
 
 
