@@ -37,7 +37,7 @@ body{
 		background:url(../images/cta_arrow.png) no-repeat right 0px;
 		}
 		
-		a.cta:hover { background-position: right}
+		a.cta:hover { background-position: right -50px ;}
 	
 	
 
