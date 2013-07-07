@@ -2,6 +2,17 @@
 
 /* Layout (global rules for all sizes) */
 
+body { margin: 0; padding: 0;}
+
+header a. logo {
+	display: block ;
+	position:absolute;
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	}
+	
+	
+
 
 
 /* Layout Large Screens (default for older browsers) */
