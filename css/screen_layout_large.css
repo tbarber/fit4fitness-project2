@@ -11,7 +11,11 @@ header a. logo {
 	background-repeat: no-repeat;
 	}
 	
-	
+nav { width: 100%;
+	  display: block;
+	  position: absolute;
+	  background-color: #a6430a;
+}
 
 
 
@@ -41,7 +45,13 @@ header{
 			background-position: 0px 3px;
 			}
 			
-			.promo_container .promo .content { padding: 0px 30px 0px 70px;} 
+			.promo_container .promo .content { padding: 0px 30px 0px 70px; }
+			
+	nav { top: 275px;}  
+	nav a{ margin: 12px 0px 10px 20px; } 
+		 		
+
+	   
 				
 				
 				
